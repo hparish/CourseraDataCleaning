@@ -37,3 +37,6 @@ View(data)
 
 There is a codebook that defines the 89 fields in the FinalProject.txt file provind a 
 description of each field. You can refer to it while decomposing the FinalProject.txt data.
+
+ASSUMPTIONS:  
+The Samsung data is already downloaded, already unzipped, and the resulting directory structure is a child under the current working directory. 
